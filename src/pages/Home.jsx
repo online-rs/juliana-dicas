@@ -4,7 +4,7 @@ import LinkList from "../components/LinkList";
 const Home = () => {
   return (
     <div style={styles.container}>
-      <h1>Links de Associado</h1>
+      <h1>Indicações da JUliana</h1>
       <LinkList />
     </div>
   );
